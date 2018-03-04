@@ -4,8 +4,8 @@ import static org.lwjgl.opengl.GL11.*;
 import org.lwjgl.glfw.GLFWVidMode;
 import org.lwjgl.opengl.GL;
 
-
-//Change
+//this is in the tutorial branch
+//Change2
 //Main classs
 public class Main {
 	
