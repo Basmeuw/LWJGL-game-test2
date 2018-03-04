@@ -4,6 +4,8 @@ import static org.lwjgl.opengl.GL11.*;
 import org.lwjgl.glfw.GLFWVidMode;
 import org.lwjgl.opengl.GL;
 
+
+//Change
 //Main classs
 public class Main {
 	
